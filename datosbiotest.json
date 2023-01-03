@@ -1,0 +1,34 @@
+[
+  {
+    "BVP": 20.328,
+    "HeartRate": 80.005,
+    "Alpha": 1.278,
+    "Beta": -0.012,
+    "Gamma": 2.689,
+    "Label": 1
+  },
+  {
+    "BVP": 20.36,
+    "HeartRate": 80.005,
+    "Alpha": 1.271,
+    "Beta": -0.978,
+    "Gamma": 1.366,
+    "Label": 1
+  },
+  {
+    "BVP": 20.405,
+    "HeartRate": 80.005,
+    "Alpha": -2.046,
+    "Beta": 2.591,
+    "Gamma": -0.554,
+    "Label": 1
+  },
+  {
+    "BVP": 20.437,
+    "HeartRate": 80.005,
+    "Alpha": 1.114,
+    "Beta": -3.597,
+    "Gamma": 0.062,
+    "Label": 1
+  }
+]
